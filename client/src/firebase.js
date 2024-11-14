@@ -6,7 +6,7 @@ import { initializeApp } from 'firebase/app';
 // Your web app's Firebase configuration
 const firebaseConfig = {
     apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-    authDomain: "clone-1759f.firebaseapp.com",
+    authDomain: "https://real-estate-raph.onrender.com",
     projectId: "clone-1759f",
     storageBucket: "clone-1759f.appspot.com",
     messagingSenderId: "701541161401",
